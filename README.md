@@ -1,5 +1,5 @@
 
-This is a Java Spring Boot Application for managing CRUD operation in a Movie management sustem.
+This is a Java Spring Boot Application for managing CRUD operation in a Movie management system.
 
 ## Getting started
 clone the project and Select build.gradle file
