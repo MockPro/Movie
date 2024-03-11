@@ -6,9 +6,13 @@ clone the project and Select build.gradle file
 
 ## Features
 Create/Add movies
+
 Get All movies
+
 Get movie by ID
+
 Update movies
+
 Delete a movie
 
 ## Dependencies
